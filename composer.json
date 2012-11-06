@@ -10,7 +10,7 @@
 			"email": "ben.tollakson@gmail.com"
 		}
 	],
-	"version": "master",
+	"version": "1.0",
 	"require": {
 		"php": ">=5.3.2",
 		"dflydev/markdown": "dev-master"
