@@ -13,14 +13,14 @@
 	"version": "1.0",
 	"require": {
 		"php": ">=5.3.2",
-		"dflydev/markdown": "dev-master"
+		"dflydev/markdown": "dev-master",
+		"twig/twig": ">=1.2.x"
 	},
 	"require-dev": {
         "silex/silex": "1.0.x-dev",
-        "twig/twig": ">=1.2.0"
     },
 	"suggest": {
-        "twig/twig": ">=1.2.0"
+        "silex/silex": "1.0.x-dev"
     },
 	"autoload": {
 		"psr-0": {
