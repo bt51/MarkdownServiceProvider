@@ -14,10 +14,10 @@
 	"require": {
 		"php": ">=5.3.2",
 		"dflydev/markdown": "dev-master",
-		"twig/twig": ">=1.2.x"
+		"twig/twig": ">=1.2.0"
 	},
 	"require-dev": {
-        "silex/silex": "1.0.x-dev",
+        "silex/silex": "1.0.x-dev"
     },
 	"suggest": {
         "silex/silex": "1.0.x-dev"
